@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_648832_hr_data.hr role" name="x_648832_hr_data.hr role">facbbe8547210210d121de94116d438f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 10:16:16</sys_created_on>
+        <sys_id>7acbbe8547210210d121de94116d4390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>facbbe8547210210d121de94116d438f</sys_name>
+        <sys_package display_value="HR data" source="x_648832_hr_data">349b3ac547210210d121de94116d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR data">349b3ac547210210d121de94116d4340</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7acbbe8547210210d121de94116d4390</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 10:16:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

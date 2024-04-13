@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Human Resourse)">f4fc364947210210d121de94116d4301</button>
+        <item_parameter display_value="Human Resourse assignment_group">78fcf24947210210d121de94116d43ff</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 10:21:20</sys_created_on>
+        <sys_id>bcfc364947210210d121de94116d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>78fcf24947210210d121de94116d43ff</sys_name>
+        <sys_package display_value="HR data" source="x_648832_hr_data">349b3ac547210210d121de94116d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR data">349b3ac547210210d121de94116d4340</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_bcfc364947210210d121de94116d4305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 10:21:20</sys_updated_on>
+        <ui_parameter display_value="Assignment group">70fc364947210210d121de94116d4304</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

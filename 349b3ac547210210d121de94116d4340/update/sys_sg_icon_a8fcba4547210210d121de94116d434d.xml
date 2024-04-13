@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home HR data</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 10:21:18</sys_created_on>
+        <sys_id>a8fcba4547210210d121de94116d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home HR data</sys_name>
+        <sys_package display_value="HR data" source="x_648832_hr_data">349b3ac547210210d121de94116d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR data">349b3ac547210210d121de94116d4340</sys_scope>
+        <sys_update_name>sys_sg_icon_a8fcba4547210210d121de94116d434d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 10:21:18</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

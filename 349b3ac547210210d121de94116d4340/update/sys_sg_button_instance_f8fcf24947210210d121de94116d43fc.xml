@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Human Resourse)">38fcf24947210210d121de94116d43fa</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Human Resourse)</name>
+        <order/>
+        <parent>3cfcf24947210210d121de94116d43f7</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 10:21:19</sys_created_on>
+        <sys_id>f8fcf24947210210d121de94116d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Human Resourse)</sys_name>
+        <sys_package display_value="HR data" source="x_648832_hr_data">349b3ac547210210d121de94116d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR data">349b3ac547210210d121de94116d4340</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f8fcf24947210210d121de94116d43fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 10:21:19</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8fcf24947210210d121de94116d43fc"/>
+</record_update>

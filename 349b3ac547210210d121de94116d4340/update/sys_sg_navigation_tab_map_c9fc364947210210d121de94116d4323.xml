@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="HR data">68fcba4547210210d121de94116d434d</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 10:21:20</sys_created_on>
+        <sys_id>c9fc364947210210d121de94116d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HR data" source="x_648832_hr_data">349b3ac547210210d121de94116d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR data">349b3ac547210210d121de94116d4340</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_c9fc364947210210d121de94116d4323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 10:21:20</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>
